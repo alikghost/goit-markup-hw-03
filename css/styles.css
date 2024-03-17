@@ -64,7 +64,6 @@ img{
 .nav-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .nav-item {
 }
@@ -80,6 +79,7 @@ img{
 .address-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .address-item {
   font-weight: 400;
@@ -240,6 +240,7 @@ margin-bottom: 72px;
   row-gap: 48px;
 }
 .portfolio-item {
+  width: calc((100% - 72px) / 4); 
 }
 .portfolio-img {
 }
