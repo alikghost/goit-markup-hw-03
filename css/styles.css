@@ -15,13 +15,13 @@ a {
   margin-left: auto;
 }
 .container {
-  max-width: 1158px;
   padding-left: 156px;
   padding-right: 156px;
   margin-left: 24px;
   margin-right: 24px;
   margin: 0 auto;
   padding: 0 15px;
+  width: 1158px;
 }
 .section {
   padding-top: 120px;
